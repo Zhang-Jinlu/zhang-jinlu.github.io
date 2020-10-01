@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jinlu&#39;s blog</title>
-    <link>http://zhang-jinlu.github.io/post/</link>
+    <link>https://zhang-jinlu.github.io/post/</link>
     <description>Recent content in Posts on Jinlu&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 01 Oct 2020 18:50:15 +0800</lastBuildDate><atom:link href="http://zhang-jinlu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Oct 2020 18:50:15 +0800</lastBuildDate><atom:link href="https://zhang-jinlu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1107 Social Clusters (30分)-PAT甲级真题</title>
-      <link>http://zhang-jinlu.github.io/post/pata1107/</link>
+      <link>https://zhang-jinlu.github.io/post/pata1107/</link>
       <pubDate>Thu, 01 Oct 2020 18:50:15 +0800</pubDate>
       
-      <guid>http://zhang-jinlu.github.io/post/pata1107/</guid>
+      <guid>https://zhang-jinlu.github.io/post/pata1107/</guid>
       <description>When register on a social network, you are always asked to specify your hobbies in order to find some potential friends with the same hobbies. A &amp;quot;social cluster&amp;quot; is a set of people who have some of their hobbies in common. You are supposed to find all the clusters. Input Specification: Each input file contains one test case. For each test case, the first line contains a positive integer N</description>
     </item>
     

@@ -1,57 +1,57 @@
-<?xml-stylesheet type="text/xsl" href="http://zhang-jinlu.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://zhang-jinlu.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://zhang-jinlu.github.io/post/pata1107/</loc>
+    <loc>https://zhang-jinlu.github.io/post/pata1107/</loc>
     <lastmod>2020-10-01T18:50:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://zhang-jinlu.github.io/categories/</loc>
+    <loc>https://zhang-jinlu.github.io/categories/</loc>
     <lastmod>2020-10-01T18:50:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://zhang-jinlu.github.io/tags/hugo/</loc>
+    <loc>https://zhang-jinlu.github.io/tags/hugo/</loc>
     <lastmod>2020-10-01T18:50:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://zhang-jinlu.github.io/</loc>
+    <loc>https://zhang-jinlu.github.io/</loc>
     <lastmod>2020-10-01T18:50:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://zhang-jinlu.github.io/tags/pages/</loc>
+    <loc>https://zhang-jinlu.github.io/tags/pages/</loc>
     <lastmod>2020-10-01T18:50:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://zhang-jinlu.github.io/categories/pages/</loc>
+    <loc>https://zhang-jinlu.github.io/categories/pages/</loc>
     <lastmod>2020-10-01T18:50:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://zhang-jinlu.github.io/post/</loc>
+    <loc>https://zhang-jinlu.github.io/post/</loc>
     <lastmod>2020-10-01T18:50:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://zhang-jinlu.github.io/tags/</loc>
+    <loc>https://zhang-jinlu.github.io/tags/</loc>
     <lastmod>2020-10-01T18:50:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://zhang-jinlu.github.io/sitemap.xml
+Sitemap: https://zhang-jinlu.github.io/sitemap.xml
