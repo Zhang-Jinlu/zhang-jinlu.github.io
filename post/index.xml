@@ -8,12 +8,75 @@
     <language>zh-cn</language>
     <lastBuildDate>Thu, 01 Oct 2020 18:50:15 +0800</lastBuildDate><atom:link href="https://zhang-jinlu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>1012 The Best Rank (25分) PAT 甲级</title>
+      <link>https://zhang-jinlu.github.io/post/pata1012/</link>
+      <pubDate>Thu, 01 Oct 2020 18:50:15 +0800</pubDate>
+      
+      <guid>https://zhang-jinlu.github.io/post/pata1012/</guid>
+      <description>1 To evaluate the performance of our first year CS majored students, we consider their grades of three courses only: C - C Programming Language, M - Mathematics (Calculus or Linear Algrbra), and E - English. At the mean time, we encourage students by emphasizing on their best ranks -- that is, among the four ranks with respect to the three courses and the average grade, we print the best</description>
+    </item>
+    
+    <item>
+      <title>1105 Spiral Matrix (25分) -- PAT 甲级</title>
+      <link>https://zhang-jinlu.github.io/post/pata1105/</link>
+      <pubDate>Thu, 01 Oct 2020 18:50:15 +0800</pubDate>
+      
+      <guid>https://zhang-jinlu.github.io/post/pata1105/</guid>
+      <description>This time your job is to fill a sequence of N positive integers into a spiral matrix in non-increasing order. A spiral matrix is filled in from the first element at the upper-left corner, then move in a clockwise spiral. The matrix has m rows and n columns, where m and n satisfy the following: m*n must be equal to N; m&amp;gt;=n; and m-n is the minimum of all the</description>
+    </item>
+    
+    <item>
       <title>1107 Social Clusters (30分)-PAT甲级真题</title>
       <link>https://zhang-jinlu.github.io/post/pata1107/</link>
       <pubDate>Thu, 01 Oct 2020 18:50:15 +0800</pubDate>
       
       <guid>https://zhang-jinlu.github.io/post/pata1107/</guid>
       <description>When register on a social network, you are always asked to specify your hobbies in order to find some potential friends with the same hobbies. A &amp;quot;social cluster&amp;quot; is a set of people who have some of their hobbies in common. You are supposed to find all the clusters. Input Specification: Each input file contains one test case. For each test case, the first line contains a positive integer N</description>
+    </item>
+    
+    <item>
+      <title>PAT (Advanced Level 甲级) 1048 Find Coins (25分)</title>
+      <link>https://zhang-jinlu.github.io/post/pata1048/</link>
+      <pubDate>Thu, 01 Oct 2020 18:50:15 +0800</pubDate>
+      
+      <guid>https://zhang-jinlu.github.io/post/pata1048/</guid>
+      <description>1048 Find Coins (25分) Eva loves to collect coins from all over the universe, including some other planets like Mars. One day she visited a universal shopping mall which could accept all kinds of coins as payments. However, there was a special requirement of the payment: for each bill, she could only use exactly two coins to pay the exact amount. Since she has as many</description>
+    </item>
+    
+    <item>
+      <title>PAT (Advanced Level 甲级) 1155 Heap Paths (30分)</title>
+      <link>https://zhang-jinlu.github.io/post/pata1155/</link>
+      <pubDate>Thu, 01 Oct 2020 18:50:15 +0800</pubDate>
+      
+      <guid>https://zhang-jinlu.github.io/post/pata1155/</guid>
+      <description>In computer science, a heap is a specialized tree-based data structure that satisfies the heap property: if P is a parent node of C, then the key (the value) of P is either greater than or equal to (in a max heap) or less than or equal to (in a min heap) the key of C. A common implementation of a heap is the binary heap, in which the tree</description>
+    </item>
+    
+    <item>
+      <title>PAT (Advanced Level) Practice 1001 A&#43;B Format (20分) java实现</title>
+      <link>https://zhang-jinlu.github.io/post/pata1001/</link>
+      <pubDate>Thu, 01 Oct 2020 18:50:15 +0800</pubDate>
+      
+      <guid>https://zhang-jinlu.github.io/post/pata1001/</guid>
+      <description>Calculate a+b and output the sum in standard format -- that is, the digits must be separated into groups of three by commas (unless there are less than four digits). Input Specification: Each input file contains one test case. Each case contains a pair of integers a and b where −10-​6 ≤a,b≤ 106 ​​ . The numbers are separated by</description>
+    </item>
+    
+    <item>
+      <title>PAT (Advanced Level) Practice 1003 Emergency (25分) java实现</title>
+      <link>https://zhang-jinlu.github.io/post/pata1003/</link>
+      <pubDate>Thu, 01 Oct 2020 18:50:15 +0800</pubDate>
+      
+      <guid>https://zhang-jinlu.github.io/post/pata1003/</guid>
+      <description>As an emergency rescue team leader of a city, you are given a special map of your country. The map shows several scattered cities connected by some roads. Amount of rescue teams in each city and the length of each road between any pair of cities are marked on the map. When there is an emergency call to you from some other city, your job is to lead your men</description>
+    </item>
+    
+    <item>
+      <title>PAT 甲级 1046 Shortest Distance (20分)</title>
+      <link>https://zhang-jinlu.github.io/post/pata1046/</link>
+      <pubDate>Thu, 01 Oct 2020 18:50:15 +0800</pubDate>
+      
+      <guid>https://zhang-jinlu.github.io/post/pata1046/</guid>
+      <description>The task is really simple: given N exits on a highway which forms a simple cycle, you are supposed to tell the shortest distance between any pair of exits. Input Specification: Each input file contains one test case. For each case, the first line contains an integer N (in [3,10​5]), followed by N integer distances D1D2⋯ D</description>
     </item>
     
   </channel>
