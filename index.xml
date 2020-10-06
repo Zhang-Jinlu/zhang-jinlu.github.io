@@ -6,7 +6,7 @@
     <description>Recent content on Jinlu&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 01 Oct 2020 18:50:15 +0800</lastBuildDate><atom:link href="https://zhang-jinlu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2020 16:37:03 +0800</lastBuildDate><atom:link href="https://zhang-jinlu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1012 The Best Rank (25分) PAT 甲级</title>
       <link>https://zhang-jinlu.github.io/post/pata1012/</link>
@@ -77,6 +77,15 @@
       
       <guid>https://zhang-jinlu.github.io/post/pata1046/</guid>
       <description>The task is really simple: given N exits on a highway which forms a simple cycle, you are supposed to tell the shortest distance between any pair of exits. Input Specification: Each input file contains one test case. For each case, the first line contains an integer N (in [3,10​5]), followed by N integer distances D1D2⋯ D</description>
+    </item>
+    
+    <item>
+      <title>Spring基本使用</title>
+      <link>https://zhang-jinlu.github.io/post/spring-intro/</link>
+      <pubDate>Tue, 06 Oct 2020 16:37:03 +0800</pubDate>
+      
+      <guid>https://zhang-jinlu.github.io/post/spring-intro/</guid>
+      <description></description>
     </item>
     
   </channel>
