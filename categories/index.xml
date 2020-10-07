@@ -6,13 +6,22 @@
     <description>Recent content in Categories on Jinlu&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 06 Oct 2020 16:37:03 +0800</lastBuildDate><atom:link href="https://zhang-jinlu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Oct 2020 16:27:10 +0800</lastBuildDate><atom:link href="https://zhang-jinlu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>基本知识回顾</title>
-      <link>https://zhang-jinlu.github.io/categories/%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/</link>
-      <pubDate>Tue, 06 Oct 2020 16:37:03 +0800</pubDate>
+      <title>计算机基础</title>
+      <link>https://zhang-jinlu.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Wed, 07 Oct 2020 16:27:10 +0800</pubDate>
       
-      <guid>https://zhang-jinlu.github.io/categories/%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/</guid>
+      <guid>https://zhang-jinlu.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java后端</title>
+      <link>https://zhang-jinlu.github.io/categories/java%E5%90%8E%E7%AB%AF/</link>
+      <pubDate>Tue, 06 Oct 2020 20:57:58 +0800</pubDate>
+      
+      <guid>https://zhang-jinlu.github.io/categories/java%E5%90%8E%E7%AB%AF/</guid>
       <description></description>
     </item>
     
